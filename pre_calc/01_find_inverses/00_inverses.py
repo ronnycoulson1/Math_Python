@@ -9,7 +9,8 @@ import sympy #math library
 #this function ask to give me variables named x y to be used for algebra
 #return 2 objs that can be used for mathematical expressions 2*x*3*y
 x, y = sympy.symbols("x y")
-f = 2 * x + 3
+f = 2 * x + 3 #function to solve
+
 
 #representation y = f(x) or y = 2x+ 3
 #sympy.Eq(lhs, rhs) meaning lhs = rhs

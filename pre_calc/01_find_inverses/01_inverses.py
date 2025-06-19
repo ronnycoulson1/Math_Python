@@ -1,5 +1,5 @@
 #find iverse algebraically use a function
-#f(x) = 4-5x
+#function to solve -> f(x) = 4-5x
 
 import sympy
 
